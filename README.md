@@ -11,3 +11,10 @@ Download Via from [there](https://github.com/the-via/releases/releases/latest) a
 ## third
 
 Open via and import json file for via.
+
+## NOTICE
+
+- Version for SAM‘s S80![img](README.assets/B810DE72B4EDA45585B6E21D322163BE.png)
+
+- Version for xd60：ver3 
+    - VIA supported layout：![image-20200912234313352](README.assets/image-20200912234313352.png)
