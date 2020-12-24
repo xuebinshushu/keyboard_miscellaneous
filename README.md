@@ -18,3 +18,7 @@ Open via and import json file for via.
 
 - Version for xd60：ver3 
     - VIA supported layout：![image-20200912234313352](README.assets/image-20200912234313352.png)
+
+# switch_films
+
+![image-20201224144429384](README.assets/image-20201224144429384.png)
